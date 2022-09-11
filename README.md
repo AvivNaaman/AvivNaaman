@@ -1,9 +1,9 @@
-## It's great to have you here 😃
-### My name is Aviv, and my main line of work is ML 🤖 & CV AI 👀.
-> _If it makes me think, I'm into it._
-- I've been working at [Captain's Eye](https://captain-eye.com/) for the past 8 months 🚢
-- I mostly code in Python 🐍, using OpenCV, TF & PyTorch 
-- I surprisingly love writing low-level code ⬇️, in C, Assembly and C++.
-- Reseraching is one of my passions.
-- I'm not scared of math, I love it. Calculus & Linear algebra are nice.
-- I'm also skilled in C#️⃣ & Java ☕️
+## It's awesome to have you here 🤩
+### My name is Aviv, and my line of work is currently Computer Vision & Machine Learning.
+> _I'm into it, as long as it makes me think._
+- B.Sc. Student in Comuter Science 💻
+- Currently in love with 🐍
+- But Assembly, C & CPP Are always considered 🔻
+- Researsching & Exploring is great 🧭
+- Nothing more refreshing than a cup of coffee and some differentials ℝℂ∞
+- Highly but somewhat low - 🌊#️⃣ & ☕️
